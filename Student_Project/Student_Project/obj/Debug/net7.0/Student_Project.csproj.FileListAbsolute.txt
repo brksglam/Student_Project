@@ -1,0 +1,14 @@
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\bin\Debug\net7.0\Student_Project.exe
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\bin\Debug\net7.0\Student_Project.deps.json
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\bin\Debug\net7.0\Student_Project.runtimeconfig.json
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\bin\Debug\net7.0\Student_Project.dll
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\bin\Debug\net7.0\Student_Project.pdb
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\Student_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\Student_Project.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\Student_Project.AssemblyInfo.cs
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\Student_Project.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\Student_Project.dll
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\refint\Student_Project.dll
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\Student_Project.pdb
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\Student_Project.genruntimeconfig.cache
+C:\Users\Burak\source\repos\İnfotech_30.01.2023\Info_04_27_23_Odev\Student_Project\Student_Project\obj\Debug\net7.0\ref\Student_Project.dll
